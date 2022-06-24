@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shawn
 - 👀 I’m interested in real estate technology
 - 🥇 My primary skills are HTML, CSS, and Javascript
-- 🥈 My secondary skills include React, PHP, SQL, WordPress, Linux, and Git
+- 🥈 My secondary skills include React, PHP, SQL, Linux, Git, and WordPress
 - 🧐 I want to learn Go
 - ☕️ I like drinking coffee
 - ⛳️ I suck at golf
