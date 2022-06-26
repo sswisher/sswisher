@@ -2,7 +2,7 @@
 - 👀 I’m interested in real estate technology
 - 🥇 My primary skills are HTML, CSS, Javascript, and PHP
 - 🥈 My secondary skills include React, SQL, Linux, and Git
-- 🧐 I want to learn Go
+- 🧐 I want to learn Spanish
 - ☕️ I like drinking coffee
 - ⛳️ I suck at golf
 - 📫 Find me at linkedin.com/in/shawn-swisher
