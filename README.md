@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Shawn
-- 👀 I’m interested in real estate technology
-- 🥇 My primary skills are HTML, CSS, Javascript, and PHP
-- 🥈 My secondary skills include React, SQL, Linux, and Git
+- 👀 I’m interested in headless WordPress
+- 🥇 My primary skills are HTML, CSS, and WordPress
+- 🥈 My secondary skills include Javascript, React, Gatsby, PHP, SQL, and Git
 - 🧐 I want to learn Spanish
 - ☕️ I like drinking coffee
 - ⛳️ I suck at golf
-- 📫 Find me at linkedin.com/in/shawn-swisher
+- 📫 Find me at shawnswisher.com
 
 <!---
 sswisher/sswisher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
