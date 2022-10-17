@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shawn
-- 👀 I’m interested in headless WordPress
+- 👀 I’m interested in Blockchain Security
 - 🥇 My primary skills are HTML, CSS, and WordPress
-- 🥈 My secondary skills include Javascript, React, Gatsby, PHP, SQL, and Git
+- 🥈 My secondary skills include Javascript, React, and PHP
 - 🧐 I want to learn Spanish
 - ☕️ I like drinking coffee
 - ⛳️ I suck at golf
