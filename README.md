@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shawn
-- 👀 I’m interested in Web3 development and security
-- 🥇 My primary skills are WordPress, HTML, and CSS
-- 🥈 My secondary skills include Javascript and PHP
-- 🧐 I want to learn German
+- 🥇 My primary skills are front-end development and WordPress
+- 🥈 My non-tech skills include real estate investing
+- 👨‍💻 I want to create my very own SaaS application
+- 🧐 I would like to learn German
 - ☕️ I like drinking coffee
 - ⛳️ I suck at golf
 - 📫 Find me at shawnswisher.com
